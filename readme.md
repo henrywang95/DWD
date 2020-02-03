@@ -27,7 +27,7 @@ For this particular project, there are no specific installation requirements
 
 <!-- Write instructions on how to start working on your project -->
 ### Inspiration
-My inspiration was this [website]（https://www.worldometers.info/coronavirus/）
+My inspiration was this [website](https://www.worldometers.info/coronavirus/)
 
 
 <!-- Notes about the deployment -->
@@ -74,7 +74,7 @@ Than, I added Youtube link, and sound file into the project.
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
-For me, the most struggle was how to add the sound file, and I want it auto play. Than I found right answer on this [stackoverflow] (https://stackoverflow.com/questions/20179190/autoplay-an-audio-with-html5-embed-tag-while-the-player-is-invisible) page.
+For me, the most struggle was how to add the sound file, and I want it auto play. Than I found right answer on this [stackoverflow](https://stackoverflow.com/questions/20179190/autoplay-an-audio-with-html5-embed-tag-while-the-player-is-invisible) page.
 Later I fount out, the local sound file is not playing when I deployed it to Glitch. I wil solve it for next assigment.
 
 The other big struggle was how to push it to github. I had a SSH key before, so I am sure I don't need to a new one. But there still some problem when I trying to push it. Then I found out, it's because I never create a new repository for the project...
