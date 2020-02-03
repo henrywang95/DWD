@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: black;
+    font-family: 'Tangerine', serif;
+    font-size: 100px;
+
+  }
+  p {
+    color: red;
+    font-family: courier;
+    font-size: 40px;
+  }
+  .loader {
+    border: 16px solid #f3f3f3; 
+    border-top: 16px solid #092f47; 
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
