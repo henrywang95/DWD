@@ -10,6 +10,7 @@ For assigment 1 I made a simple one page website about the coronavirus. I want t
 
 ## ASSIGNMENT 2
 For assigment 2 I made a swiss poster design with HTML and CSS. I spend a lot of time to made the CSS part working.
+![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment2/final_design.gif)
 
 <!-- It is essential to describe how to set up your project -->
 ## Setup
@@ -32,7 +33,6 @@ For this particular project, there are no specific installation requirements
 My inspiration for assigment 1 was this [website](https://www.worldometers.info/coronavirus/)
 
 My inspiration for assigment 2 came from this [poster] (https://www.internationalposter.com/product/konstruktive-grafik/) 
-
 
 <!-- Notes about the deployment -->
 ### Deployment
@@ -81,7 +81,7 @@ Than, I added Youtube link, and sound file into the project.
 
 Assigment 2
 For the second assigment. I made a example poster design and a style guide in sketch. Than I started my development process.
-
+![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment2/design.png)
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 Assigment 1
