@@ -1,0 +1,78 @@
+body {
+  font-family: "Helvetica Neue","Helvetica", sans-serif;
+    background-color: #FAD800;
+  }
+
+  h1 {
+    color: black;
+    font-family: "Helvetica Neue","Helvetica", sans-serif;
+    font-size: 100px;
+
+  }
+
+  .gallery {
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    opacity: 1;
+  }
+
+  .poster__content {
+    position: relative;
+    width: 500px;
+    height: 700px;
+    overflow: hidden;
+    padding: 0 1em;
+    box-shadow: 0 1px 4px 2px rgba(#000,.2);
+  }
+  .poster__header {
+    width: 75%;
+    float: left;
+    margin-top: 40%;
+    overflow: hidden;
+}
+.poster__header-title {
+  margin-bottom: .3em;
+  font-size: 30px;
+}
+
+.poster__header-subtitle1 {
+  width: 35%;
+  float: left;
+  font-size: 14px;
+  line-height: 1;
+}
+.poster__header-subtitle2 {
+  position: relative;
+  top: 5.5em;
+  width: 65%;
+  float: right;
+  font-size: 6px;
+  line-height: 1.5;
+  font-weight: bold;
+
+}
+
+.poster__addition {
+  position: relative;
+  top: 5em;
+  width: 25%;
+  float: right;
+  margin-top: 40%;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1;
+
+}
+
+.poster__footer {
+  position: relative;
+  top: 1em;
+  width: 25%;
+  float: right;
+  margin-top: 16%;
+  font-size: 4px;
+  font-weight: bold;
+  line-height: 1;
+}
