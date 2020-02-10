@@ -76,3 +76,33 @@ body {
   font-weight: bold;
   line-height: 1;
 }
+
+.square1 {
+  width: 1000px;
+  height: 40px;
+  background-color: #F5F3E6;
+  position: relative;
+  animation-name: example1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@keyframes example1 {
+  0%   {left:0px; top:-200px;}
+  50%  {left:400px; top:-200px;}
+  100% {left:-200px; top:-200px;}
+}
+
+.square2 {
+  width: 40px;
+  height: 1000px;
+  background-color: #382E2C;
+  position: relative;
+  animation-name: example2;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@keyframes example2 {
+  0%   {left:300px; top:-1000px;}
+  50%  {left:300px; top:0px;}
+  100% {left:300px; top:-1000px;}
+}
