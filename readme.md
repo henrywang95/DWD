@@ -106,7 +106,7 @@ Assigment 2
 I don't know how to make an animation until I saw the [css animations](https://www.w3schools.com/css/css3_animations.asp) on w3schools. And it helps me understand how it work, with the example code, I made my animartion. 
 
 Assigment 3
-I want to an application sounds really simple. But I try 
+I want to an application sounds really simple. But I tried, nothing is working for me.
 
 <!-- Any questions you have -->
 ## Questions
