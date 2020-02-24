@@ -12,6 +12,9 @@ For assigment 1 I made a simple one page website about the coronavirus. I want t
 For assigment 2 I made a swiss poster design with HTML and CSS. I spend a lot of time to made the CSS part working.
 ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment2/final_design.gif)
 
+## ASSIGNMENT 3 
+For assigment 3 I want to make a emotion recognition app which can display your mood everytime you see a new dog. 
+ ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/sketch.JPG)
 <!-- It is essential to describe how to set up your project -->
 ## Setup
 
@@ -82,6 +85,11 @@ Than, I added Youtube link, and sound file into the project.
 Assigment 2
 For the second assigment. I made a example poster design and a style guide in sketch. Than I started my development process.
 ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment2/design.png)
+
+Assigment 3 
+It's not working the way I want to be, but right now, it looks like 
+![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/process.PNG)
+
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 Assigment 1
@@ -92,6 +100,9 @@ The other big struggle was how to push it to github. I had a SSH key before, so 
 
 Assigment 2
 I don't know how to make an animation until I saw the [css animations](https://www.w3schools.com/css/css3_animations.asp) on w3schools. And it helps me understand how it work, with the example code, I made my animartion. 
+
+Assigment 3
+I want to an application sounds really simple. But I try 
 
 <!-- Any questions you have -->
 ## Questions
