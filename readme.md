@@ -37,6 +37,8 @@ My inspiration for assigment 1 was this [website](https://www.worldometers.info/
 
 My inspiration for assigment 2 came from this [poster] (https://www.internationalposter.com/product/konstruktive-grafik/) 
 
+My inspiration for assigment 3 came from Joey's [data-selfie-app](https://github.com/joeyklee/data-selfie-app)
+
 <!-- Notes about the deployment -->
 ### Deployment
 
@@ -44,6 +46,8 @@ This project is hosted on Github. Github renders markdown files.
 This project is deployed on Glitch.
 You can view assigment1 at [here](https://henrywang95-dwd.glitch.me/Assignment1/)
 You can view assigment2 at [here](https://henrywang95-dwd.glitch.me/Assignment2/)
+You can view assigment3 at [here](https://henrywang95-dwd.glitch.me/Assignment3/)
+
 
 ## Built with
 
@@ -88,7 +92,7 @@ For the second assigment. I made a example poster design and a style guide in sk
 
 Assigment 3 
 It's not working the way I want to be, but right now, it looks like 
-![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/process.PNG)
+![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/process.png)
 
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
