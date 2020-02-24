@@ -2,128 +2,18 @@
 
 <html>
     <head>
-        <title>Workbook practice</title>
-        <style>
-            *{
-                padding: 0;
-                margin: 0;
-                box-sizing: border-box;
-            }
-            html {
-            font-size: 16px;
-        }
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-        }
-        .nav{
-            padding: 1rem 0.5rem 1rem 0.5rem;
-            background-color: navy;
-
-        }
-        .nav__list{
-            display: flex;
-            flex-direction: row;
-            justify-content: flex-end;
-            list-style: none;
-        }
-        .nav__item:not(:last-child){
-            margin-right: 1rem;
-        }
-        .nav__link{
-            color:white;
-            text-decoration: none;
-            
-        }
-        .header{
-            padding: 1rem 0.5rem 1rem 0.5rem;
-            height: 80vh;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-        }
-        . header_title{
-            text-align: center;
-        }
-        .footer{
-            padding: 1rem 0.5rem 1rem 0.5rem;
-        }
-        .main{
-            padding: 1rem 0.5rem 1rem 0.5rem;
-            height: 50vh;
-            display:flex;
-            flex-direction: row;
-        }
-
-        @media screen and (max-width: 700px){
-            .main{
-                flex-direction: column;
-            }
-        }
-        .menu{
-            background-color: tomato;
-            width:25%;
-            height: 100%;
-        }
-        @media screen and (max-width: 700px){
-            .menu{
-                width:100%
-            }
-        }
-        .content{
-            background-color: pink;
-            width:50%;
-            height: 100%;
-        }
-        @media screen and (max-width: 700px){
-            .content{
-                width:100%
-            }
-        }
-        .aside{
-            background-color: purple;
-            width:25%;
-            height: 100%;
-        }
-        @media screen and (max-width: 700px){
-            .aside{
-                width:100%
-            }
-        }
-        .debug{
-            border: 1px dotted black;
-        }
-        </style>
-
-    <body>
-        <div id="app">
-        <nav class="nav debug">
-        <ul class="nav__list">
-            <li class="nav__item">
-            <a class="nav__link" href="/">home</a> 
-            </li>
-            <li class="nav__item">
-            <a class="nav__link" href="/">about</a> 
-            </li>
-            <li class="nav__item">
-            <a class="nav__link" href="/">contact</a> 
-            </li>
-        </ul>
-    </nav>
-        <header class="header debug">
-        <h1 class="header_title">I love You</h1>
-    </header>
-        <main class="main debug">
-            <menu class="menu">my menu</menu>
-            <section class="content">my content</section>
-            <aside class="aside">my aside</aside>
-        </main>
-        <footer class="footer debug">
-            <section class="footer_section"><p class="footer_content">I love dinosaurs</p>
-            </section>
-            <section class="footer_section"><p class="footer_content">I love nature</p>
-            </section>
-        </footer>
-    </body>
+        <title>Front end applications workbook</title>
+        <link rel="stylesheet" href="main.css"></link>
     </head>
+    <body>
+
+        <p class="valentines">I love my students</p>
+        <button class="valentines__button">Love Button</button>
+
+        <div class="remove">
+            <p>This will be remove when you click</p>
+            <button class="remove__btn">REMOVE ME</button>
+        </div>
+        <script src="main.js"></script>
+    </body>
 </html>
