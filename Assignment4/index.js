@@ -93,6 +93,6 @@ app.delete('/api/:id', (request, response) => {
 
 })
 
-app.listen(3030, () => {
-    console.log("check out the magic at: http://localhost:3030")
+app.listen(8000, () => {
+    console.log("check out the magic at: http://localhost:8000")
 })
