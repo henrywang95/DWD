@@ -84,3 +84,4 @@ window.addEventListener('DOMContentLoaded', async () => {
   $img.src = result.message;
   document.body.appendChild($img);
 })
+
