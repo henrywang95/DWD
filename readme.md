@@ -104,6 +104,7 @@ It's not working the way I want to be, but right now, it looks like
 Assigment 4
 There is the documentation for assigment4
 ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/example.gif))
+
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 Assigment 1
