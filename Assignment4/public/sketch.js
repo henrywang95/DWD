@@ -22,6 +22,8 @@ function setup() {
 
     postButton1 = createButton("add love")
     postButton1.mousePressed(handlePost);
+    postButton2 = createButton("remove love");
+    postButton2.mousePressed(handleDelete)
 
 }
 
@@ -41,6 +43,15 @@ function handlePost(e) {
     })
 }
 
+function handleDelete() {
+    console.log('removing!', this.id)
+    fetch(`/api/${this.id}`, {
+        method: 'DELETE'
+    }).then(result => {
+        updateMyDots()
+    })
+
+}
 
 function updateMyDots() {
     // clear myDots

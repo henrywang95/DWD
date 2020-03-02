@@ -15,6 +15,10 @@ For assigment 2 I made a swiss poster design with HTML and CSS. I spend a lot of
 ## ASSIGNMENT 3 
 For assigment 3 I want to make a emotion recognition app which can display your mood everytime you see a new dog. 
  ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/sketch.JPG)
+
+ ## ASSIGNMENT 4
+ For assigment 4, I followed Joey's [simple-express-api](https://github.com/joeyklee/simple-express-api) example, and based on the example, I made a simple application that user can adding there love to the webstie. 
+
 <!-- It is essential to describe how to set up your project -->
 ## Setup
 
@@ -24,7 +28,8 @@ For assigment 3 I want to make a emotion recognition app which can display your 
 To make a good readme the following prerequisites are necessary:
 1. A text editor - preferably [VS Code](https://code.visualstudio.com/)
 2. An understanding of markdown syntax. You can learn about markdown at this [Markdown Guide](https://www.markdownguide.org/getting-started/)
-3. Tender love and care - writing good, clear, and kind documentation takes a lot of work, but you (and your contributors) will appreciate you. 
+3. You need npm to start the application[npm](https://www.npmjs.com/)
+4. You may want to download node.js [node](https://nodejs.org/en/)
 
 <!-- any installation needs should be defined -->
 ### Installation
@@ -39,6 +44,7 @@ My inspiration for assigment 2 came from this [poster] (https://www.internationa
 
 My inspiration for assigment 3 came from Joey's [data-selfie-app](https://github.com/joeyklee/data-selfie-app)
 
+I don't really know want I want to make for assigment 4, so I just followed Joey's [simple-express-api](https://github.com/joeyklee/simple-express-api) tutorial 
 <!-- Notes about the deployment -->
 ### Deployment
 
@@ -47,13 +53,14 @@ This project is deployed on Glitch.
 You can view assigment1 at [here](https://henrywang95-dwd.glitch.me/Assignment1/)
 You can view assigment2 at [here](https://henrywang95-dwd.glitch.me/Assignment2/)
 You can view assigment3 at [here](https://henrywang95-dwd.glitch.me/Assignment3/)
-
-
+You can view assigment4 at [here] (https://henrywang95-dwd.glitch.me/Assignment4/public/)
 ## Built with
 
 * [VS Code](https://code.visualstudio.com/)
 * [Github](https://github.com)
-
+* [express](https://expressjs.com/)
+* [npm](https://www.npmjs.com/)
+* [node](https://nodejs.org/en/)
 ## Authors
 
 * [Henry Wang](https://wangh.io) -- first year student -- [NYU ITP](https://itp.nyu.edu)
@@ -94,6 +101,9 @@ Assigment 3
 It's not working the way I want to be, but right now, it looks like 
 ![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/process.png)
 
+Assigment 4
+There is the documentation for assigment4
+![alt text](https://github.com/henrywang95/DWD/blob/master/Assignment3/example.gif))
 <!-- Any specific challenges or struggles documented -->
 ## Challenges & Struggles
 Assigment 1
@@ -107,6 +117,9 @@ I don't know how to make an animation until I saw the [css animations](https://w
 
 Assigment 3
 I want to an application sounds really simple. But I tried, nothing is working for me.
+
+Assigment 4 
+I don't really understand the whole workflow for how to build and why we need to build a back end application. But I spent a lot of time this weekend watch shiffman's videos, and follow Joey's tutorial. I knew I didn't do a good job. But I did learned a lot of the process. 
 
 <!-- Any questions you have -->
 ## Questions
